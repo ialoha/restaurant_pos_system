@@ -1,1 +1,1 @@
-https://ialoha.github.io/restaurant_pos_system/src/index.html
+https://github.com/ialoha/restaurant_pos_system/blob/src/index.html
